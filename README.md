@@ -1,35 +1,87 @@
-## Good morning and good night
+# Good morning, and good night.
 
-- Time can really change a lot things, to me, to you, and to the world. By now, there's only half a year left for me to graduate. How time flies.
+_「所有的往昔收束于那盛夏，崭新的故事绽放于那黎明。」_
 
-- I'm writing this markdown in Nov 2025, which has been 14 months since last change. The passing period taught me pretty much.
+_"All that once was converges upon that summer's height; all that is yet to be blossoms with the first light of dawn."_
 
-- I'm still paying effort to front end, which really attracts me.
+Every repository tells a story.
 
-- I've enjoyed using Github to store and track my projects during the last year, and have created several repos and made a lot commits and pushs. Some are course jobs, and some are my own projects. Check them if you like!
+Some are about software.
 
-- However, I know that the way of learning is endless, and there're so many interesting things waiting for me to discover.
+Some are about growth.
 
-- So keep learning, keep coding, and keep dreaming.
+Some are simply records of a younger self trying to understand the world.
 
-- In the end, I'd like to quote 2 sentences from Apple, as mottos for me, and for you:
+I'm still writing mine.
 
-- _Give people wonderful tools, and they'll do wonderful things._
+---
 
-- _While the world sleeps, you dream._
+# About me
 
-------------------- Updated in 2024 -----------------------
+Building software, documenting life.
 
-## Hi there 
+# Current Focus
 
-- I'm a software engineering student at university (currently in Grade 3).
+• Software Engineer
 
-- I pity that I have not studied and learned from this website until today.
+• Learning system architecture
 
-- But as the saying goes: 种一棵树最好的时间是十年前，其次是现在， 
-which means: The best time to plant a tree is ten years ago. The second best time is now.
-So moving up and starting coding is what I should do now.
+• Building personal projects
 
-- I'm currently working on front-end development, and know a little about back-end as well.
+• Exploring photography
 
-- How to reach me: 3298257615@qq.com or super123keng@gmail.com
+• Writing in Markdown
+
+# Selected Projects
+
+⭐ [Personal Website](https://github.com/StelleRainn/personal-website)
+
+⭐ [ACIR](https://github.com/StelleRainn/a-clock-inside-the-rose)
+
+⭐ [The Journey of learning front end](https://github.com/StelleRainn/front-end-learning)
+
+# Journey
+
+**2024**
+
+- First met Github formally and built my own account.
+
+- Journey to break free from _chains_.
+
+- _The strength will always be with you._
+
+**2025**
+
+- _Journey to Chase Rain_
+
+- Learned front end systematically.
+
+- Year of the most projects built.
+
+- Interview.
+
+**2026**
+
+- Internship
+
+- Graduated
+
+- Started my career as a software engineer.
+
+**The story continues...** 
+
+# Outside Coding
+
+📷 Photography
+
+✍️ Writing
+
+🎵 Music
+
+🌆 Walking through cities
+
+☕ Coffee and conversations
+
+# Quote
+
+Keep learning, keep coding, keep dreaming.
